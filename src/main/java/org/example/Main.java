@@ -15,6 +15,7 @@ public class Main {
     }
 
     public static String printName(String name) {
+        System.out.println();
         return name + "!";
     }
 
